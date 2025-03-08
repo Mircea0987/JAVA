@@ -1,1 +1,1 @@
-Java lab
+Java labs + solo practice
