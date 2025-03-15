@@ -57,7 +57,6 @@ public class Student extends  Person {
                this.grades[i] = grades[i];
            }
        }
-
     }
     public int gradesAvg(){
 
