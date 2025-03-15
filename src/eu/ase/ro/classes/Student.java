@@ -56,7 +56,6 @@ public class Student extends  Person {
            for(int i = 0;i<grades.length;i++){
                this.grades[i] = grades[i];
            }
-
        }
 
     }
